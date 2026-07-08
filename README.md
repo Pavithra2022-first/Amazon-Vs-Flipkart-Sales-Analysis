@@ -223,37 +223,6 @@ The dashboard was developed using Power BI Desktop.
 - Integration with Live E-commerce APIs
 
 ---
-
-# 📁 Project Structure
-
-```
-Amazon-vs-Flipkart-Sales-Analysis
-│
-├── data
-│   ├── Amazon.csv
-│   ├── Flipkart.csv
-│   └── Amazon_Flipkart_Final.csv
-│
-├── notebooks
-│   └── Amazon_vs_Flipkart_Analysis.ipynb
-│
-├── dashboard
-│   └── Amazon_vs_Flipkart_Dashboard.pbix
-│
-├── screenshots
-│   ├── dashboard_overview.png
-│   ├── amazon_filter.png
-│   └── flipkart_filter.png
-│
-├── report
-│   └── Amazon_vs_Flipkart_Project_Report.pdf
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
 # 🎓 Skills Demonstrated
 
 - Data Cleaning
@@ -274,9 +243,9 @@ Amazon-vs-Flipkart-Sales-Analysis
 
 **Pavithra E**
 
-- 📧 Email: *Your Email Address*
-- 💼 LinkedIn: *Your LinkedIn Profile*
-- 💻 GitHub: *Your GitHub Profile*
+- 📧 Email: pavieswaran2001@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pavithraeswaran2501/
+
 
 ---
 
