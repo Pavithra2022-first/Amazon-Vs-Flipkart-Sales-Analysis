@@ -1,7 +1,7 @@
-# E- Commerece Sales Analytics - Comparative Analysis of Amazon And Flipkart Sales
+# E- Commerce Sales Analytics - Comparative Analysis of Amazon And Flipkart Sales
 This project compares sales performance, customer behavior, product trends, and payment preferences between Amazon and Flipkart for the year 2025.
 
-# 📊 E- Commerece Sales Analytics - Comparative Analysis of Amazon And Flipkart Sales
+# 📊 E- Commerce Sales Analytics - Comparative Analysis of Amazon And Flipkart Sales
 
 ## 📌 Project Overview
 
