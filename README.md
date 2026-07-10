@@ -92,7 +92,7 @@ The following preprocessing steps were performed using Python (Pandas):
 - Checked duplicate records.
 - Checked missing values.
 - Converted numerical columns into appropriate data types.
-- Filled missing numerical values using product-wise averages and overall mean where required.
+- Filled missing numerical values using product-wise averages from existing products and overall mean where required.
 - Filled missing categorical values using suitable replacement values.
 - Calculated missing **Total Sales** using:
 
